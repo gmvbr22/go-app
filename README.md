@@ -1,2 +1,9 @@
 # go-app
-sample go application
+
+Sample application template.
+
+## Commands
+
+- make build
+- make run
+- make test
