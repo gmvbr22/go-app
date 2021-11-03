@@ -2,4 +2,4 @@ run:
 	go run src/main.go
 
 build:
-	go build -o app src/main.go
+	go build -o go_app src/main.go
