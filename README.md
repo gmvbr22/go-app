@@ -10,3 +10,4 @@ Sample application template.
 - make build
 - make run
 - make test
+- make format
